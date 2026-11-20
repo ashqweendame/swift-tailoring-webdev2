@@ -43,7 +43,7 @@ swift-tailoring-webdev2/
 
 1. Open the XAMPP Control Panel and **Start MySQL**.
 2. Open http://localhost/phpmyadmin (phpMyAdmin needs Apache running only for this step; start Apache if the page won't load).
-3. Make sure the database `tailor_swift_db` exists with your data. If not, create it and use **Import** with the SQL file from your Information Management project.
+3. Make sure the database `tailor_swift_db` exists with your data. If not, create it and use **Import** with the SQL file attached with the folder.
 
 The schema is not modified by this project.
 
